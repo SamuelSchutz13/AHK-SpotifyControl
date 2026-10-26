@@ -124,4 +124,4 @@ AHK-SpotifyControl/
 ## 🙏 Credits
 
 - **[thqby](https://github.com/thqby)**: author of the `Audio.ahk` library (Core Audio APIs for AutoHotkey v2).
-- **[Samuel Schutz](https://github.com/SamuelSchutz13)**: project author.
+- **[Zyraxz](https://github.com/SamuelSchutz13)**: project author.
